@@ -7,7 +7,6 @@ const page = () => {
   return (
     <>
     <SignUp />
-    <div>lets see</div>
     </>
   )
 }
